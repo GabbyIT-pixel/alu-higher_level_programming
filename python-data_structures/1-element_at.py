@@ -3,6 +3,7 @@
 Return element at a given index like in C.
 """
 
+
 def element_at(my_list, idx):
     """Retrieve element at index `idx` from `my_list`.
 
